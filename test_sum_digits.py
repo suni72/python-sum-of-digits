@@ -4,7 +4,7 @@ import unittest
 
 from sum_digits import sum_of_digits
 
-class TestReverse(unittest.TestCase):
+class TestSumDigits(unittest.TestCase):
     # put your tests here (and delete this comment line and the `pass' line')
     pass
 
